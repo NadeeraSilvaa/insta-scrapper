@@ -1,6 +1,4 @@
-Here’s the entire `README.md` file in Markdown format:
 
-```markdown
 # Instagram Profile Scraper API
 
 This project provides a simple Express.js API for scraping Instagram profile information. It uses `axios` to make HTTP requests, `cheerio` to parse the HTML, and `express-rate-limit` to limit the number of requests to the API.
@@ -92,6 +90,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Axios](https://axios-http.com/) - Promise-based HTTP client for the browser and Node.js
 - [Cheerio](https://cheerio.js.org/) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server
 - [Express Rate Limit](https://www.npmjs.com/package/express-rate-limit) - Basic rate-limiting middleware for Express
-```
-
-Make sure to replace `your-username` with your actual GitHub username or the correct URL for your repository.
